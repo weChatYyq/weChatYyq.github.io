@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>极客 | Greek</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://weChatYyq.github.io/"/>
+  <updated>2020-02-14T07:30:24.112Z</updated>
+  <id>https://weChatYyq.github.io/</id>
+  
+  <author>
+    <name>丨Greek丨</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>springboot</title>
+    <link href="https://weChatYyq.github.io/2020/02/14/springboot.html"/>
+    <id>https://weChatYyq.github.io/2020/02/14/springboot.html</id>
+    <published>2020-02-14T07:28:24.000Z</published>
+    <updated>2020-02-14T07:30:24.112Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="springboot" scheme="https://weChatYyq.github.io/categories/springboot/"/>
+    
+      <category term="spring" scheme="https://weChatYyq.github.io/categories/springboot/spring/"/>
+    
+    
+      <category term="后端" scheme="https://weChatYyq.github.io/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇博客</title>
+    <link href="https://weChatYyq.github.io/2018/11/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2.html"/>
+    <id>https://weChatYyq.github.io/2018/11/30/第一篇博客.html</id>
+    <published>2018-11-30T09:30:00.000Z</published>
+    <updated>2020-02-14T06:51:16.032Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="develop" scheme="https://weChatYyq.github.io/categories/develop/"/>
+    
+      <category term="test" scheme="https://weChatYyq.github.io/categories/develop/test/"/>
+    
+    
+      <category term="linux" scheme="https://weChatYyq.github.io/tags/linux/"/>
+    
+      <category term="os" scheme="https://weChatYyq.github.io/tags/os/"/>
+    
+      <category term="java" scheme="https://weChatYyq.github.io/tags/java/"/>
+    
+      <category term="python" scheme="https://weChatYyq.github.io/tags/python/"/>
+    
+  </entry>
+  
+</feed>
